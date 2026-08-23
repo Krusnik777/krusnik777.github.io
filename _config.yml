@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Krusnik777's homepage
-description: Bookmark this to keep an eye on my project updates!
+remote_theme: pages-themes/cayman@v0.2.0
+title: Разработчик игр на Unity
+description: Портфолио и Резюме
+plugins:
+- jekyll-remote-theme
