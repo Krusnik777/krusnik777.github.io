@@ -16,6 +16,18 @@ description: О моих проектах
 <video src="./attachments/porfolio_vid.mp4" controls width="100%"></video>
 ▶️ [Видео-портфолио на Youtube](https://youtu.be/PO9TQirg_Fc )
 
+## Список проектов
+- [Space Shooter](#space-shooter)
+- [Tower Defense](#tower-defense)
+- [3D Racing](#3d-racing)
+- [Sci-Fi Third-Person Shooter](#sci-fi-third-person-shooter)
+- [Multiplayer Tank Simulator](#multiplayer-tank-simulator)
+- [Dungeon Crawler ARPG](#dungeon-crawler-arpg)
+- [Карточные Столкновения](#карточные-столкновения)
+- [Do Something, Thing!](#do-something-thing)
+- [Memories of Polaroid](#memories-of-polaroid)
+- [Combat Arena](#combat-arena)
+
 ---
 ## Space Shooter
 **Жанр:** Shoot 'em up    
@@ -26,16 +38,11 @@ description: О моих проектах
 **Репозиторий:** [github.com/Krusnik777/SpaceShooter](https://github.com/Krusnik777/SpaceShooter)    
 <video src="./attachments/space_shooter/space_shooter_pv.mp4" controls width="100%"></video>
 
-<div class="showcase">
-
 ![screen_001](./attachments/space_shooter/screen_001.webp)
 ![screen_002](./attachments/space_shooter/screen_002.webp)
 ![screen_003](./attachments/space_shooter/screen_003.webp)
 ![screen_004](./attachments/space_shooter/screen_004.webp)
 ![screen_005](./attachments/space_shooter/screen_005.webp)
-
-<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const src = script ? script.getAttribute('src') : ''; const basePath = src.substring(0, src.lastIndexOf('/')); const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
-</div>
 
 ### Об игре
 
@@ -51,6 +58,8 @@ description: О моих проектах
 - Гибкая система миссий - не только победа всех врагов, а также другие задачи для игрока.
 - Боссы с уникальной механикой оглушения и фазами.
 
+[▲ Назад к списку](#список-проектов)
+
 ---
 ## Tower Defense
 **Жанр:** Tower Defense  
@@ -61,17 +70,12 @@ description: О моих проектах
 **Репозиторий:** [github.com/Krusnik777/TowerDefense](https://github.com/Krusnik777/TowerDefense)    
 <video src="./attachments/tower_defense/tower_defense_pv.mp4" controls width="100%"></video>
 
-<div class="showcase">
-
 ![screen_001](./attachments/tower_defense/screen_001.webp)
 ![screen_002](./attachments/tower_defense/screen_002.webp)
 ![screen_003](./attachments/tower_defense/screen_003.webp)
 ![screen_004](./attachments/tower_defense/screen_004.webp)
 ![screen_005](./attachments/tower_defense/screen_005.webp)
 ![screen_006](./attachments/tower_defense/screen_006.webp)
-
-<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const src = script ? script.getAttribute('src') : ''; const basePath = src.substring(0, src.lastIndexOf('/')); const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
-</div>
 
 ### Об игре
 
@@ -85,6 +89,8 @@ description: О моих проектах
 - Система башен - башни можно не только строить, но и улучшать, если куплено соответствующее улучшение.
 - Система сохранения - прогресс игрока сохраняется после завершений миссий и можно продолжать игру в разных игровых сессиях.
 
+[▲ Назад к списку](#список-проектов)
+
 ---
 ## 3D Racing
 **Жанр:** Аркадная гонка  
@@ -95,15 +101,10 @@ description: О моих проектах
 **Репозиторий:** [github.com/Krusnik777/3DRacing](https://github.com/Krusnik777/3DRacing)    
 <video src="./attachments/3d_racing/3d_racing_pv.mp4" controls width="100%"></video>
 
-<div class="showcase">
-
 ![screen_001](./attachments/3d_racing/screen_001.webp)
 ![screen_002](./attachments/3d_racing/screen_002.webp)
 ![screen_003](./attachments/3d_racing/screen_003.webp)
 ![screen_004](./attachments/3d_racing/screen_004.webp)
-
-<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const src = script ? script.getAttribute('src') : ''; const basePath = src.substring(0, src.lastIndexOf('/')); const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
-</div>
 
 ### Об игре
 
@@ -117,9 +118,11 @@ description: О моих проектах
 - Поддержка геймпадов: с ним в игру играть приятнее.
 - Система сохранения - прогресс игрока сохраняется после завершений миссий и можно продолжать игру в разных игровых сессиях.
 
+[▲ Назад к списку](#список-проектов)
+
 ---
 ## Sci-Fi Third-Person Shooter
-**Жанр:** Шутер от третьего лица 
+**Жанр:** Шутер от третьего лица  
 **Команда:** разработка в одиночку  
 **Платформа:** Windows   
 **Контент:** сложный контроллер персонажа / 2 типа врагов / 2 типа управляемых транспортов  
@@ -128,8 +131,6 @@ description: О моих проектах
 <video src="./attachments/3d_scifi_tps/3d_scifi_tps_shooting.mp4" controls width="100%"></video>
 <video src="./attachments/3d_scifi_tps/3d_scifi_tps_vehicles.mp4" controls width="100%"></video>
 
-<div class="showcase">
-
 ![screen_001](./attachments/3d_scifi_tps/screen_001.webp)
 ![screen_002](./attachments/3d_scifi_tps/screen_002.webp)
 ![screen_003](./attachments/3d_scifi_tps/screen_003.webp)
@@ -137,9 +138,6 @@ description: О моих проектах
 ![screen_005](./attachments/3d_scifi_tps/screen_005.webp)
 ![screen_006](./attachments/3d_scifi_tps/screen_006.webp)
 ![screen_007](./attachments/3d_scifi_tps/screen_007.webp)
-
-<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const src = script ? script.getAttribute('src') : ''; const basePath = src.substring(0, src.lastIndexOf('/')); const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
-</div>
 
 ### Об игре
 
@@ -156,9 +154,11 @@ description: О моих проектах
 - Взаимодействие с окружающими объектами - игрок может взаимодействовать с разными объектами (открывать двери, лазать по лестнице) для продвижения по уровню.
 - Система целей миссии - по ходу прохождения игрок получает разные задачи, которые ему нужно выполнить.
 
+[▲ Назад к списку](#список-проектов)
+
 ---
 ## Multiplayer Tank Simulator
-**Жанр:** Сессионный мультиплеер 
+**Жанр:** Сессионный мультиплеер  
 **Команда:** разработка в одиночку  
 **Платформа:** Windows   
 **Контент:** тестовый уровень с ботами / проработанный уровень для мультиплеерных баталий  
@@ -166,16 +166,11 @@ description: О моих проектах
 **Репозиторий:** [github.com/Krusnik777/3DMultiplayerTankSimulator](https://github.com/Krusnik777/3DMultiplayerTankSimulator)  
 <video src="./attachments/3d_multiplayer_tanks/3d_multiplayer_tanks_pv.mp4" controls width="100%"></video>
 
-<div class="showcase">
-
 ![screen_001](./attachments/3d_multiplayer_tanks/screen_001.webp)
 ![screen_002](./attachments/3d_multiplayer_tanks/screen_002.webp)
 ![screen_003](./attachments/3d_multiplayer_tanks/screen_003.webp)
 ![screen_004](./attachments/3d_multiplayer_tanks/screen_004.webp)
 ![screen_005](./attachments/3d_multiplayer_tanks/screen_005.webp)
-
-<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const src = script ? script.getAttribute('src') : ''; const basePath = src.substring(0, src.lastIndexOf('/')); const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
-</div>
 
 ### Об игре
 
@@ -186,19 +181,19 @@ description: О моих проектах
 - Сетевая часть на базе Mirror - фреймворка для клиент-серверных приложений.
 - Физическая система передвижения танков.
 - Система брони и модулей танков - чтобы нанести урон, необходимо попадать в наиболее уязвимые части танков.
-- Система засад - в определенных местах можно спрятаться и соперники не заметят, пока не будет произведен выстрел.
+- Система засад - в определенных местах можно спрятаться и стать невидимым для соперников, пока не будет произведен выстрел или пока какой-нибудь соперник не подберется слишком близко.
+
+[▲ Назад к списку](#список-проектов)
 
 ---
 ## Dungeon Crawler ARPG
-**Жанр:** Action-RPG
+**Жанр:** Action-RPG  
 **Команда:** разработка в одиночку  
 **Платформа:** Windows   
 **Контент:** 2 + 1 уровня / 2 типа врагов / несколько видов предметов и взаимодействий с окружением  
 **Билд:** [Скачать](https://github.com/Krusnik777/ZenithRPG/releases/download/0.3/Build_Pre-Alpha.zip)   
 **Репозиторий:** [github.com/Krusnik777/ZenithRPG](https://github.com/Krusnik777/ZenithRPG)  
 <video src="./attachments/dungeon_crawler_arpg/dungeon_crawler_arpg_pv.mp4" controls width="100%"></video>
-
-<div class="showcase">
 
 ![screen_001](./attachments/dungeon_crawler_arpg/screen_001.webp)
 ![screen_002](./attachments/dungeon_crawler_arpg/screen_002.webp)
@@ -207,9 +202,6 @@ description: О моих проектах
 ![screen_005](./attachments/dungeon_crawler_arpg/screen_005.webp)
 ![screen_006](./attachments/dungeon_crawler_arpg/screen_006.webp)
 ![screen_007](./attachments/dungeon_crawler_arpg/screen_007.webp)
-
-<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const src = script ? script.getAttribute('src') : ''; const basePath = src.substring(0, src.lastIndexOf('/')); const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
-</div>
 
 ### Об игре
 
@@ -229,24 +221,21 @@ Action-RPG с grid-based перемещением, в основе которо�
 - Кастомная система ИИ для врагов для реализации разных поведений и поиска пути.
 - Иконки изображений были сгенерированы с помощью Stable Diffusion.
 
+[▲ Назад к списку](#список-проектов)
+
 ---
 ## Карточные Столкновения
-**Жанр:** ККИ
+**Жанр:** ККИ  
 **Команда:** разработка в одиночку  
 **Платформа:** WebGL (Яндекс Игры)   
 **Контент:** 36 карт с уникальным отображением / более десятка внутриигровых достижений  
 <video src="./attachments/card_encounters/card_encounters_pv.mp4" controls width="100%"></video>
-
-<div class="showcase">
 
 ![screen_001](./attachments/card_encounters/screen_001.webp)
 ![screen_002](./attachments/card_encounters/screen_002.webp)
 ![screen_003](./attachments/card_encounters/screen_003.webp)
 ![screen_004](./attachments/card_encounters/screen_004.webp)
 ![screen_005](./attachments/card_encounters/screen_005.webp)
-
-<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const src = script ? script.getAttribute('src') : ''; const basePath = src.substring(0, src.lastIndexOf('/')); const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
-</div>
 
 ### Об игре
 
@@ -261,6 +250,8 @@ Action-RPG с grid-based перемещением, в основе которо�
 - Система облачных сохранений через SDK Яндекс Игр. 
 - Изображения для карт были сгенерированы с помощью Stable Diffusion.
 
+[▲ Назад к списку](#список-проектов)
+
 ---
 ## Do Something, Thing!
 **Жанр:** Bullet Heaven  
@@ -271,16 +262,11 @@ Action-RPG с grid-based перемещением, в основе которо�
 **Репозиторий:** [github.com/Krusnik777/DoSomethingThing](https://github.com/Krusnik777/DoSomethingThing)  
 <video src="./attachments/do_something_thing/do_something_thing_pv.mp4" controls width="100%"></video>
 
-<div class="showcase">
-
 ![screen_001](./attachments/do_something_thing/screen_001.webp)
 ![screen_002](./attachments/do_something_thing/screen_002.webp)
 ![screen_003](./attachments/do_something_thing/screen_003.webp)
 ![screen_004](./attachments/do_something_thing/screen_004.webp)
 ![screen_005](./attachments/do_something_thing/screen_005.webp)
-
-<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const src = script ? script.getAttribute('src') : ''; const basePath = src.substring(0, src.lastIndexOf('/')); const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
-</div>
 
 ### Об игре
 
@@ -300,6 +286,8 @@ Action-RPG с grid-based перемещением, в основе которо�
 
 Я полностью руководил разработкой проекта, наставлял менее опытных коллег и раздавал задачи. На мне была архитектура проекта и полная разработка всех игровых систем, кроме сюжетных фрагментов в стиле визуальной новеллы.
 
+[▲ Назад к списку](#список-проектов)
+
 ---
 ## Memories of Polaroid
 **Жанр:** Нарративный Puzzle  
@@ -311,15 +299,10 @@ Action-RPG с grid-based перемещением, в основе которо�
 **Cтраница игры на itch.io:** [kitanidev.itch.io/memories-of-polaroid](https://kitanidev.itch.io/memories-of-polaroid)  
 <video src="./attachments/memories_of_polaroid/memories_of_polaroid_pv.mp4" controls width="100%"></video>
 
-<div class="showcase">
-
 ![screen_001](./attachments/memories_of_polaroid/screen_001.webp)
 ![screen_002](./attachments/memories_of_polaroid/screen_002.webp)
 ![screen_003](./attachments/memories_of_polaroid/screen_003.webp)
 ![screen_004](./attachments/memories_of_polaroid/screen_004.webp)
-
-<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const src = script ? script.getAttribute('src') : ''; const basePath = src.substring(0, src.lastIndexOf('/')); const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
-</div>
 
 ### Об игре
 
@@ -336,6 +319,8 @@ Action-RPG с grid-based перемещением, в основе которо�
 
 Отвечал за архитектуру проекта и большинство игровых механик. Также на мне была режиссура/постановка катсцен.
 
+[▲ Назад к списку](#список-проектов)
+
 ---
 ## Combat Arena
 **Жанр:** Action  
@@ -346,15 +331,10 @@ Action-RPG с grid-based перемещением, в основе которо�
 **Репозиторий:** [github.com/Krusnik777/CombatArena](https://github.com/Krusnik777/CombatArena)    
 <video src="./attachments/combat_arena/combat_arena_pv.mp4" controls width="100%"></video>
 
-<div class="showcase">
-
 ![screen_001](./attachments/combat_arena/screen_001.webp)
 ![screen_002](./attachments/combat_arena/screen_002.webp)
 ![screen_003](./attachments/combat_arena/screen_003.webp)
 ![screen_004](./attachments/combat_arena/screen_004.webp)
-
-<img src="x" onerror="if(!window.scInit){ window.scInit=true; const script = document.querySelector('script[src*=prescript]'); const src = script ? script.getAttribute('src') : ''; const basePath = src.substring(0, src.lastIndexOf('/')); const s=document.createElement('script'); s.src=basePath + '/static/showcase.js'; document.head.appendChild(s); } this.remove();" style="display:none;">
-</div>
 
 ### Об игре
 
@@ -368,6 +348,8 @@ Action-RPG с grid-based перемещением, в основе которо�
 - Loading Manager с разными шагами и учетом ошибок загрузки в этапах.
 - Динамические тултипы - для отображения данных о способностях и здоровье игрока/врагов.
 - [О архитектуре проекта](https://github.com/Krusnik777/CombatArena/blob/master/Docs/ArchitectureReport.md).
+
+[▲ Назад к списку](#список-проектов)
 
 ---
 
