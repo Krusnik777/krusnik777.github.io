@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Разработчик игр на Unity
+description: Портфолио и Резюме
 ---
 
 ## Добро пожаловать
