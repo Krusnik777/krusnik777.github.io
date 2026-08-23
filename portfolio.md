@@ -7,7 +7,7 @@ description: О моих проектах
 ## Филипп | Unity Developer
 **UTC+3 | 📍 Удаленно | Full-time / Part-time / Project-based**
 
-**✉️ E-Mail:** [mrkorolevfa@gmail.com](mrkorolevfa@gmail.com)  
+**✉️ E-Mail:** [mrkorolevfa@gmail.com](mailto:mrkorolevfa@gmail.com)  
 **💬 Telegram:** [t.me/Krusnik777](https://t.me/Krusnik777)  
 **🐙 GitHub:** [github.com/Krusnik777](https://github.com/Krusnik777)  
 **💼 [Резюме](./resume)**  
