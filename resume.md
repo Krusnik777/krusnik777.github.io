@@ -7,10 +7,10 @@ description: О моем опыте
 ## Филипп | Unity Developer
 **UTC+3 | 📍 Удаленно | Full-time / Part-time / Project-based**
 
-**✉️ E-Mail:** mrkorolevfa@gmail.com
-**💬 Telegram:** [t.me/Krusnik777](https://t.me/Krusnik777)
-**🐙 GitHub:** [github.com/Krusnik777](https://github.com/Krusnik777)
-**💼 Портфолио:** [./portfolio]
+**✉️ E-Mail:** mrkorolevfa@gmail.com  
+**💬 Telegram:** [t.me/Krusnik777](https://t.me/Krusnik777)  
+**🐙 GitHub:** [github.com/Krusnik777](https://github.com/Krusnik777)  
+**💼 [Портфолио](./portfolio)**
 
 ---
 ## О СЕБЕ 
@@ -20,13 +20,13 @@ description: О моем опыте
 ---
 ## СТЕК
 
-**— Unity • C# • Gameplay • Backend • UI • Cinemachine**
-**— UniRX/R3 • UniTask • Reflex** 
-**— DOTween • LitMotion • Timeline**
-**— Yandex Games SDK • Mirra SDK • Yandex Metrika • AdMob • Firebase • Unity In-App**
-**— Git • Databases (MySQL)**
-**— Debugging • Profiling • Optimization**
-**— Windows • Android • WebGL**
+**— Unity • C# • Gameplay • Backend • UI • Cinemachine**  
+**— UniRX/R3 • UniTask • Reflex**   
+**— DOTween • LitMotion • Timeline**  
+**— Yandex Games SDK • Mirra SDK • Yandex Metrika • AdMob • Firebase • Unity In-App**  
+**— Git • Databases (MySQL)**  
+**— Debugging • Profiling • Optimization**  
+**— Windows • Android • WebGL**  
 
 ---
 ## ОПЫТ
@@ -40,20 +40,25 @@ description: О моем опыте
 - Внедрение различных SDK и API для монетизации, аналитики и внутриигровых покупок.
 - Работа как в соло по ТЗ, так и в команде.
 
-Последний проект: **Build Island**
-**Google-Play**: https://play.google.com/store/apps/details?id=obby.island.build
-**RuStore**: https://www.rustore.ru/catalog/app/obby.island.build
-**Обязанности**:
-• разработка с нуля разных игровых механик/режимов согласно ТЗ и плану развития проекта;
-• расширение, пересборка и полировка/изменение готовых механик;
-• подготовка билдов игры под Google Play/RuStore;
-• проведение тестирования и отладки;
-• внедрение механизмов монетизации, внутриигровых покупок и сбора аналитики.
+Последний проект: **Build Island**  
+**Google-Play**: https://play.google.com/store/apps/details?id=obby.island.build  
+**RuStore**: https://www.rustore.ru/catalog/app/obby.island.build  
+**Обязанности**:  
+• разработка с нуля разных игровых механик/режимов согласно ТЗ и плану развития проекта;  
+• расширение, пересборка и полировка/изменение готовых механик;  
+• подготовка билдов игры под Google Play/RuStore;  
+• проведение тестирования и отладки;  
+• внедрение механизмов монетизации, внутриигровых покупок и сбора аналитики.  
 
 ---
 ## ПОРТФОЛИО
 
 ---
 ## ЯЗЫКИ 
-Русский — Родной 
+Русский — Родной   
 Английский — B1-B2 (Свободно читаю и понимаю тексты любой сложности)
+
+---
+
+### [НА ГЛАВНУЮ](./)
+### [ПОРТФОЛИО](./portfolio)
