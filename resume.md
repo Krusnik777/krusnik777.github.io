@@ -48,7 +48,7 @@ description: О моем опыте
 
 **Slime Games for Grow a Garden**
 **Google-Play**: [play.google.com/store/apps/details?id=kids.grow.slime](https://play.google.com/store/apps/details?id=kids.grow.slime)  
-**Команда*: я, геймдизайнер (составляющий ТЗ и план развития проекта) и на поздних этапах 3D-моделлер
+**Команда**: я, геймдизайнер (составляющий ТЗ и план развития проекта) и на поздних этапах 3D-моделлер
 
 **О игре**:  
 Симулятор ведения фермы слаймов. Игроку необходимо сажать яйца слаймов, дожидаться их выроста, а затем собирать с них капли и продавать в магазине, постепенно увеличивая свой капитал и получая в доступ более редких слаймов.
@@ -64,7 +64,7 @@ description: О моем опыте
 **Build Island**  
 **Google-Play**: [play.google.com/store/apps/details?id=obby.island.build](https://play.google.com/store/apps/details?id=obby.island.build)  
 **RuStore**: [rustore.ru/catalog/app/obby.island.build](https://www.rustore.ru/catalog/app/obby.island.build)  
-**Команда*: 3 разработчика (включая меня), 3D-моделлер, геймдизайнер (составляющий ТЗ и план развития проекта) 
+**Команда**: 3 разработчика (включая меня), 3D-моделлер, геймдизайнер (составляющий ТЗ и план развития проекта) 
 
 **О игре**:  
 Сборник разных игровых режимов.
