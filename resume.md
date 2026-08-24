@@ -27,7 +27,7 @@ description: О моем опыте
 **— Unity • C# • Gameplay • Backend • UI • Cinemachine**  
 **— UniRX/R3 • UniTask • Reflex**   
 **— DOTween • LitMotion • Timeline**  
-**— Yandex Games SDK • Mirra SDK • Yandex Metrika • AdMob • Firebase • Unity In-App**  
+**— Yandex Games SDK • Mirra SDK • Yandex Appmetrica • AdMob • Firebase • Unity In-App**  
 **— Git • Databases (MySQL)**  
 **— Debugging • Profiling • Optimization**  
 **— Windows • Android • WebGL**  
@@ -44,12 +44,35 @@ description: О моем опыте
 - Внедрение различных SDK и API для монетизации, аналитики и внутриигровых покупок.
 - Работа как в соло по ТЗ, так и в команде.
 
-Последний проект: **Build Island**  
+**Последние проекты на Google Play**
+
+**Slime Games for Grow a Garden**
+**Google-Play**: [play.google.com/store/apps/details?id=kids.grow.slime](https://play.google.com/store/apps/details?id=kids.grow.slime)  
+**Команда*: я, геймдизайнер (составляющий ТЗ и план развития проекта) и на поздних этапах 3D-моделлер
+
+**О игре**:  
+Симулятор ведения фермы слаймов. Игроку необходимо сажать яйца слаймов, дожидаться их выроста, а затем собирать с них капли и продавать в магазине, постепенно увеличивая свой капитал и получая в доступ более редких слаймов.
+
+**Обязанности**:  
+• разработка проекта с нуля согласно ТЗ и плану развития проекта;  
+• расширение, пересборка и полировка/изменение готовых механик;  
+• подготовка билдов игры под Google Play;  
+• проведение тестирования и отладки;  
+• внедрение механизмов монетизации, внутриигровых покупок и сбора аналитики.  
+
+
+**Build Island**  
 **Google-Play**: [play.google.com/store/apps/details?id=obby.island.build](https://play.google.com/store/apps/details?id=obby.island.build)  
 **RuStore**: [rustore.ru/catalog/app/obby.island.build](https://www.rustore.ru/catalog/app/obby.island.build)  
+**Команда*: 3 разработчика (включая меня), 3D-моделлер, геймдизайнер (составляющий ТЗ и план развития проекта) 
+
+**О игре**:  
+Сборник разных игровых режимов.
+
 **Обязанности**:  
-• разработка с нуля разных игровых механик/режимов согласно ТЗ и плану развития проекта;  
-• расширение, пересборка и полировка/изменение готовых механик;  
+• разработка с нуля разных игровых механик под режимы игры согласно ТЗ и плану развития проекта;  
+• разработка с нуля разных игровых режимов согласно ТЗ и плану развития проекта;  
+• расширение, пересборка и полировка/изменение готовых механик/режимов;  
 • подготовка билдов игры под Google Play/RuStore;  
 • проведение тестирования и отладки;  
 • внедрение механизмов монетизации, внутриигровых покупок и сбора аналитики.  
