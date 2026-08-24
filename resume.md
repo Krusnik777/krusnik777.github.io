@@ -46,7 +46,7 @@ description: О моем опыте
 
 **Последние проекты на Google Play**
 
-**Slime Games for Grow a Garden**
+**Slime Games for Grow a Garden**  
 **Google-Play**: [play.google.com/store/apps/details?id=kids.grow.slime](https://play.google.com/store/apps/details?id=kids.grow.slime)  
 **Команда**: я, геймдизайнер (составляющий ТЗ и план развития проекта) и на поздних этапах 3D-моделлер
 
