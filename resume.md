@@ -44,7 +44,7 @@ description: О моем опыте
 - Внедрение различных SDK и API для монетизации, аналитики и внутриигровых покупок.
 - Работа как в соло по ТЗ, так и в команде.
 
-**Последние проекты на Google Play**
+**Последние проекты под Android**
 
 **Slime Games for Grow a Garden**  
 **Google-Play**: [play.google.com/store/apps/details?id=kids.grow.slime](https://play.google.com/store/apps/details?id=kids.grow.slime)  
